@@ -116,6 +116,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Big thanks to the guys who were there back then and supported me:  
 - [zxsrxt](https://github.com/zxsrxt-kebab-case)  
 - [ra1n](https://github.com/loxchmorez)  
-- [Nikita](https://github.com/nkhmelni)  
+- [nkhmelni](https://github.com/nkhmelni)  
 
 > _"Some doors close, some remain open… iOS moves, time moves, and so do I."_ — **andrd3v**
