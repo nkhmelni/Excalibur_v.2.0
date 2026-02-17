@@ -118,4 +118,4 @@ Big thanks to the guys who were there back then and supported me:
 - [rain](https://github.com/loxchmorez)  
 - [nkhmelni](https://github.com/nkhmelni)  
 
-> _"Some doors close, some remain open… iOS moves, time moves, and so do I."_ — **andrd3v**
+
